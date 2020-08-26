@@ -1,48 +1,38 @@
 ---
 authors:
-- admin
+- Putu Wahyu Saputra
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master in Business Analytics
+    institution: Monash University
+    year: 2020
+email: "psap0002@student.monash.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Business Analytics
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student of Business Analytics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/whsyp
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/whysptra
 superuser: true
-title: Nelson Bighetti
+title: Putu Wahyu Saputra
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Putu Wahyu Saputra is a student of business analytics at the Monash University. His research interests include sales trend, web development and data wrangling.
